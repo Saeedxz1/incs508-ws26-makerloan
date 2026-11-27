@@ -36,7 +36,7 @@
 ## 1. Introduction
 
 ### 1.1 Purpose
-This document specifies the software requirements of **MakerLoan**, release 1.0 (first version), a web system that manages equipment, reservations and loans for the makerspace of a mid-size university in Berlin. It covers the complete first version of the product, limited to the five features F1–F5 and the fifteen requirements R01–R15 defined in Section 4. A vibe-coded prototype (`M1/prototype/`) demonstrates these features and requirements.
+This document specifies the software requirements of **MakerLoan**, release 1.0 (first version), a web system that manages equipment, reservations and loans for the makerspace of a mid-size university in Berlin. It covers the complete first version of the product, limited to the five features F1–F5 and the fifteen requirements R01–R15 defined in Section 4. A clickable prototype (`M1/prototype/`) demonstrates these features and requirements.
 
 ### 1.2 Document Conventions
 - **Features** are numbered **F1–F5**. **Requirements** are numbered **R01–R15**; each has a unique ID, exactly one feature, one type — **FR** (Functional), **NFR** (Non-functional) or **C** (Constraint) — and one priority.
