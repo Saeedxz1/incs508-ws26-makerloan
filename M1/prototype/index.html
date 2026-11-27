@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MakerLoan — Prototype (Milestone 1)</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header id="topbar">
+  <div class="brand">Maker<strong>Loan</strong> <span class="proto">prototype · M1</span></div>
+  <nav id="nav" aria-label="Main"></nav>
+  <div id="userbox"></div>
+</header>
+
+<main id="main" tabindex="-1"></main>
+
+<dialog id="reserve-dialog" data-req="R04 R11">
+  <form method="dialog" id="reserve-form">
+    <h2>Reserve <span id="rd-item"></span></h2>
+    <p class="muted" id="rd-rules"></p>
+    <label>Pickup date <input type="date" id="rd-pickup" required></label>
+    <label>Return date <input type="date" id="rd-return" required></label>
+    <p id="rd-msg" class="msg" role="alert"></p>
+    <div class="row">
+      <button type="submit" class="primary" id="rd-submit">Reserve</button>
+      <button type="button" id="rd-cancel">Close</button>
+    </div>
+  </form>
+</dialog>
+
+<div id="toast" role="status" aria-live="polite"></div>
+
+<footer id="demo-panel" aria-label="Demo controls">
+  <strong>Demo controls</strong>
+  <span id="clock" title="Simulated clock (R06, R13, R14 depend on time)"></span>
+  <button data-action="adv" data-h="1">+1 hour</button>
+  <button data-action="adv" data-h="6">+6 hours</button>
+  <button data-action="adv" data-h="24">+1 day</button>
+  <button data-action="adv" data-h="168">+7 days</button>
+  <label class="inline"><input type="checkbox" id="tags-toggle"> Show requirement tags</label>
+  <button data-action="reset" class="danger">Reset demo data</button>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
