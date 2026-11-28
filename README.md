@@ -43,3 +43,14 @@ python3 -m http.server 8000     # then open http://localhost:8000
 | F3 Desk Check-out and Check-in | R07, R08, R09 |
 | F4 Safety Briefing and Access Control | R10, R11, R12 |
 | F5 Overdue Follow-up and Manager Reporting | R13, R14, R15 |
+
+## Team review (Milestone 1)
+Each member reviews one feature: reads its section of `M1/SRS.md` against the case description, runs its demo steps from `M1/prototype/README.md`, then fills in their own row below and commits it from their own GitHub account. "Findings" records anything wrong or unclear, or "none".
+
+| Member | Feature | SRS section | Demo steps | Reviewed on | Findings |
+|---|---|---|---|---|---|
+| Youssef Mahmoud | F1 (R01–R03) | 4.1 | 2, 3, 16 | | |
+| Ahmed Mohamed | F2 (R04–R06) | 4.2 | 4, 6, 12 | | |
+| Saeed Mahmoud | F3 (R07–R09) | 4.3 | 7, 8, 11 | | |
+| Ahmed Walid | F4 (R10–R12) | 4.4 | 1, 5, 9, 10 | | |
+| Jana Harfouche | F5 (R13–R15) | 4.5 | 13, 14, 15 | | |
