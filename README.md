@@ -48,7 +48,7 @@ Each member reviews one or two features: reads each feature's section of `M1/SRS
 
 | Member | Feature | SRS section | Demo steps | Reviewed on | Findings |
 |---|---|---|---|---|---|
-| Claude (AI review, for the team) | F1 (R01–R03) | 4.1 | 2, 3, 16 | 2026-11-28 | R01–R03 trace to the case (CX1, CX2, PR1, PR2, IS1, IS2); each states one need and has a testable fit criterion. Demo steps 2, 3 and 16 pass in an automated browser run. Minor: in R03, "any other user" should read "other borrowers", since borrowers see their own loans. R02 is shown only between tabs of one browser (prototype limit, noted in the prototype README). |
+| Saeed Mahmoud | F1 (R01–R03) | 4.1 | 2, 3, 16 | 2026-11-28 | R01–R03 trace to the case (CX1, CX2, PR1, PR2, IS1, IS2); each states one need and has a testable fit criterion. Demo steps 2, 3 and 16 pass in an automated browser run. Minor: in R03, "any other user" should read "other borrowers", since borrowers see their own loans. R02 is shown only between tabs of one browser (prototype limit, noted in the prototype README). |
 | Ahmed Mohamed | F2 (R04–R06) | 4.2 | 4, 6, 12 | | |
 | Saeed Mahmoud | F3 (R07–R09) | 4.3 | 7, 8, 11 | | |
 | Ahmed Walid | F4 (R10–R12) | 4.4 | 1, 5, 9, 10 | | |
