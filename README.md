@@ -11,7 +11,7 @@
 | 1 | 10004611 | Ahmed Mohamed | Askary1 |
 | 2 | 10000885 | Saeed Mahmoud | Saeedxz1 |
 | 3 | 10003458 | Ahmed Walid | AhmedWalid778 |
-| 4 | 10001636 | Jana Harfouche | TBD |
+| 4 | 10001636 | Jana Harfouche | janaharfoucheee |
 
 ## Contents of this submission
 
@@ -52,4 +52,4 @@ Each member reviews one or two features: reads each feature's section of `M1/SRS
 | Ahmed Mohamed | F2 (R04–R06) | 4.2 | 4, 6, 12 | | |
 | Saeed Mahmoud | F3 (R07–R09) | 4.3 | 7, 8, 11 | | |
 | Ahmed Walid | F4 (R10–R12) | 4.4 | 1, 5, 9, 10 | | |
-| Jana Harfouche | F5 (R13–R15) | 4.5 | 13, 14, 15 | | |
+| Jana Harfouche | F5 (R13–R15) | 4.5 | 13, 14, 15 | 2026-11-28 | Demo steps 13, 14 and 15 pass as described. R13-R15 trace to the case (PR3, IS5, IS6, DLO4, DLO7, Q3, Q6). Minor: R13's fit criterion repeats the BR-05 numbers and omits the no-reminder case for loans under 24 h; R14 does not say how the manager is notified or how part days overdue are counted; R15 does not define which loans count as "returned late" for a chosen period. |
