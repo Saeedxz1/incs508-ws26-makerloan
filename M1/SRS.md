@@ -2,7 +2,7 @@
 ## for MakerLoan — Equipment Loans for a University Makerspace
 
 **Version 1.0 (Iteration 1 / Milestone 1)**
-**Prepared by:** Youssef Mahmoud (13005321), Ahmed Mohamed (10004611), Saeed Mahmoud (10000885), Ahmed Walid (10003458), Jana Harfouche (10001636)
+**Prepared by:** Ahmed Mohamed (10004611), Saeed Mahmoud (10000885), Ahmed Walid (10003458), Jana Harfouche (10001636)
 **Organization:** German International University — Faculty of Informatics and Computer Science, INCS508 Requirements Engineering, Winter 2026
 **Date created:** 2026-11-26
 
