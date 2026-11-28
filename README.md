@@ -8,11 +8,10 @@
 
 | # | Student ID | Full name | GitHub username |
 |---|---|---|---|
-| 1 | 13005321 | Youssef Mahmoud | TBD |
-| 2 | 10004611 | Ahmed Mohamed | Askary1 |
-| 3 | 10000885 | Saeed Mahmoud | Saeedxz1 |
-| 4 | 10003458 | Ahmed Walid | AhmedWalid778 |
-| 5 | 10001636 | Jana Harfouche | TBD |
+| 1 | 10004611 | Ahmed Mohamed | Askary1 |
+| 2 | 10000885 | Saeed Mahmoud | Saeedxz1 |
+| 3 | 10003458 | Ahmed Walid | AhmedWalid778 |
+| 4 | 10001636 | Jana Harfouche | TBD |
 
 ## Contents of this submission
 
@@ -45,11 +44,11 @@ python3 -m http.server 8000     # then open http://localhost:8000
 | F5 Overdue Follow-up and Manager Reporting | R13, R14, R15 |
 
 ## Team review (Milestone 1)
-Each member reviews one feature: reads its section of `M1/SRS.md` against the case description, runs its demo steps from `M1/prototype/README.md`, then fills in their own row below and commits it from their own GitHub account. "Findings" records anything wrong or unclear, or "none".
+Each member reviews one or two features: reads each feature's section of `M1/SRS.md` against the case description, runs its demo steps from `M1/prototype/README.md`, then fills in their own row(s) below and commits it from their own GitHub account. "Findings" records anything wrong or unclear, or "none".
 
 | Member | Feature | SRS section | Demo steps | Reviewed on | Findings |
 |---|---|---|---|---|---|
-| Youssef Mahmoud | F1 (R01–R03) | 4.1 | 2, 3, 16 | | |
+| Saeed Mahmoud | F1 (R01–R03) | 4.1 | 2, 3, 16 | | |
 | Ahmed Mohamed | F2 (R04–R06) | 4.2 | 4, 6, 12 | | |
 | Saeed Mahmoud | F3 (R07–R09) | 4.3 | 7, 8, 11 | | |
 | Ahmed Walid | F4 (R10–R12) | 4.4 | 1, 5, 9, 10 | | |
